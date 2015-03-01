@@ -19,3 +19,4 @@ A extension to bring foundation to Automad. It basically grabs the js from autom
 
 This extension gives you the ability to bring some SEO tools into your site. Every meta or og is editable in your backend (gui).
 
+![SEO-options-Screenshot](https://raw.githubusercontent.com/B-iggy/Automad-Extensions/master/Automad-SEO.PNG)
